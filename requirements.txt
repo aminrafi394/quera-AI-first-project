@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+category_encoders
+matplotlib
+seaborn
+arabic-reshaper
+python-bidi
+jdatetime
+folium
+branca
+geopandas
+utm
+kneed
+jupyterlab
